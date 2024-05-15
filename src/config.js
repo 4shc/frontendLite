@@ -1,5 +1,5 @@
 module.exports = {
   api: {
-    baseURL: 'http://localhost:5000'
+    baseURL: 'https://backtendlite.onrender.com:5000'
   }
 }
